@@ -1,30 +1,50 @@
 # Adin Berbić
 
-I build software for real-world systems where **data, hardware and decisions meet**.
+`software systems` · `data` · `automation` · `hardware interfaces`
 
-I’m interested in systems that can make sense of imperfect inputs, reason about constraints and turn raw information into decisions that can be explained and verified.
+I build software that sits between **messy inputs and real decisions**.
 
-## What I build
+```text
+raw data
+   ↓
+validation
+   ↓
+structure
+   ↓
+model / rules
+   ↓
+decision
+   ↓
+traceable result
+```
 
-**Decision systems**  
-Rules, constraints and changing inputs → consistent, explainable decisions.
+I’m interested in systems that have to work when the input is incomplete, noisy or uncertain — and still need to produce something that can be understood, verified and reproduced.
 
-**Data intelligence**  
-Time-series and structured data → patterns, anomalies and useful signals.
+## Working on
 
-**Connected systems**  
-Software that acquires, normalizes and interprets data from sensors and devices.
+```text
+decision engines      → constraints, rules, explainable outputs
+data systems          → time-series, signals, anomalies, relationships
+connected software    → devices, sensors, protocols, normalized state
+simulation            → scenarios, models, deterministic experiments
+automation            → replacing repeated human reasoning with code
+```
 
-**Simulation & automation**  
-Models and tools for testing scenarios and replacing repetitive reasoning with reproducible logic.
+## How I think about software
 
-## Engineering principles
+```text
+fail loudly        > guess silently
+explicit state     > hidden state
+traceable logic    > magic
+good defaults      > unnecessary configuration
+reproducibility    > plausible output
+```
 
-I care about systems that know the difference between **“I have enough information to decide”** and **“I should not pretend that I do.”**
+Software should know when it has enough information to make a decision.
 
-Explicit assumptions · Strong validation · Traceable decisions · Predictable failure
+It should also know when it doesn’t.
 
-## Technologies
+## Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
@@ -37,7 +57,7 @@ Explicit assumptions · Strong validation · Traceable decisions · Predictable 
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React Native" title="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React / React Native" title="React / React Native" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright" title="Playwright" />
   &nbsp;
