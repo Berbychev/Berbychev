@@ -1,24 +1,36 @@
 # Adin Berbić
 
-I build independent software projects around data analysis, automation and engineering problems.
+I build software for real-world systems where **data, hardware and decisions meet**.
 
-My main interest is turning raw data and repetitive technical tasks into software that is easier to use, easier to verify and less dependent on manual configuration.
+My focus is on problems that are difficult to solve with another dashboard, spreadsheet or collection of scripts: noisy data, uncertain inputs, multiple constraints, repetitive decisions and systems that need to behave predictably when the input is not perfect.
 
-## Areas I explore
+I’m particularly interested in building software that can **understand structure, reason about constraints, detect what matters and turn raw information into a usable decision**.
 
-- **Data analysis** — CSV and log parsing, automatic column detection, unit conversion, trend analysis and anomaly detection
-- **Automation** — repetitive task reduction, validation logic and reproducible workflows
-- **Hardware communication** — generic serial communication, sensor data acquisition and local dashboards
-- **Engineering tools** — small applications for calculations, visualization, simulation and structured decision logic
+## What I build
 
-## Tech I use
+**Decision systems**  
+Software that turns rules, constraints and changing inputs into consistent, explainable decisions.
 
-`TypeScript` · `JavaScript` · `Python` · `HTML/CSS` · `Java` · `SQL`
+**Data intelligence tools**  
+Systems for understanding time-series and structured data, detecting patterns, anomalies and relationships without forcing the user to manually configure every detail.
 
-`Node.js` · `React Native / Expo` · `PostgreSQL` · `Playwright` · `GitHub Actions`
+**Hardware–software systems**  
+Interfaces between sensors, devices and software, with a focus on reliable acquisition, normalization and real-time interpretation of data.
 
-## Project approach
+**Automation and simulation**  
+Tools for replacing repetitive reasoning with reproducible logic, modelling scenarios and testing how systems behave before decisions are made.
 
-I prefer tools that can detect sensible defaults automatically, validate their inputs and make assumptions visible instead of silently producing questionable results.
+## Engineering principles
 
-Projects published on this profile are independent personal projects built from public, synthetic or self-created data and generic interfaces. They do not contain employer code, data, documentation, proprietary processes or confidential technical information.
+I care about systems that know the difference between **“I have enough information to decide”** and **“I should not pretend that I do.”**
+
+That means explicit assumptions, strong validation, deterministic behavior where possible, traceable decisions and software that fails visibly instead of producing convincing nonsense.
+
+## Technologies
+
+TypeScript · JavaScript · Python · SQL  
+Node.js · PostgreSQL · React Native · Playwright · GitHub Actions
+
+---
+
+Currently building independent projects around intelligent data analysis, decision engines, automation and connected systems.
