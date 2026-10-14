@@ -1,15 +1,15 @@
 # Adin Berbić
 
-Manufacturing Team Lead building practical software for industrial workflows.
+I build independent software projects around data analysis, automation and engineering problems.
 
-I work at the intersection of manufacturing, test & measurement, process improvement and software. Most of the tools I build start with a real shop-floor problem: too much manual evaluation, fragmented data, repetitive decisions, difficult planning or equipment that should be easier to integrate.
+My main interest is turning raw data and repetitive technical tasks into software that is easier to use, easier to verify and less dependent on manual configuration.
 
-## What I work on
+## Areas I explore
 
-- **Industrial test data** — log/CSV parsing, automatic signal detection, unit normalization, pass/fail logic, trends and anomaly analysis
-- **Production planning** — capacity, work orders, skills, routing and shop-floor decision support
-- **Instrument integration** — serial/RS-232 communication, sensors, vacuum equipment, temperature data and local dashboards
-- **Engineering software** — tools that replace repetitive spreadsheet/manual workflows with explicit logic and traceable results
+- **Data analysis** — CSV and log parsing, automatic column detection, unit conversion, trend analysis and anomaly detection
+- **Automation** — repetitive task reduction, validation logic and reproducible workflows
+- **Hardware communication** — generic serial communication, sensor data acquisition and local dashboards
+- **Engineering tools** — small applications for calculations, visualization, simulation and structured decision logic
 
 ## Tech I use
 
@@ -17,8 +17,8 @@ I work at the intersection of manufacturing, test & measurement, process improve
 
 `Node.js` · `React Native / Expo` · `PostgreSQL` · `Playwright` · `GitHub Actions`
 
-## How I like to build
+## Project approach
 
-I prefer software that understands the workflow instead of asking the user to configure things the program can determine itself. Inputs should be validated, assumptions should be explicit, and bad or incomplete data should fail visibly rather than produce a plausible-looking result.
+I prefer tools that can detect sensible defaults automatically, validate their inputs and make assumptions visible instead of silently producing questionable results.
 
-My current focus is industrial software: test-data analysis, production planning, equipment integration and small engineering tools that solve concrete manufacturing problems.
+Projects published on this profile are independent personal projects built from public, synthetic or self-created data and generic interfaces. They do not contain employer code, data, documentation, proprietary processes or confidential technical information.
