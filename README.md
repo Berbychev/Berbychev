@@ -2,35 +2,44 @@
 
 I build software for real-world systems where **data, hardware and decisions meet**.
 
-My focus is on problems that are difficult to solve with another dashboard, spreadsheet or collection of scripts: noisy data, uncertain inputs, multiple constraints, repetitive decisions and systems that need to behave predictably when the input is not perfect.
-
-I’m particularly interested in building software that can **understand structure, reason about constraints, detect what matters and turn raw information into a usable decision**.
+I’m interested in systems that can make sense of imperfect inputs, reason about constraints and turn raw information into decisions that can be explained and verified.
 
 ## What I build
 
 **Decision systems**  
-Software that turns rules, constraints and changing inputs into consistent, explainable decisions.
+Rules, constraints and changing inputs → consistent, explainable decisions.
 
-**Data intelligence tools**  
-Systems for understanding time-series and structured data, detecting patterns, anomalies and relationships without forcing the user to manually configure every detail.
+**Data intelligence**  
+Time-series and structured data → patterns, anomalies and useful signals.
 
-**Hardware–software systems**  
-Interfaces between sensors, devices and software, with a focus on reliable acquisition, normalization and real-time interpretation of data.
+**Connected systems**  
+Software that acquires, normalizes and interprets data from sensors and devices.
 
-**Automation and simulation**  
-Tools for replacing repetitive reasoning with reproducible logic, modelling scenarios and testing how systems behave before decisions are made.
+**Simulation & automation**  
+Models and tools for testing scenarios and replacing repetitive reasoning with reproducible logic.
 
 ## Engineering principles
 
 I care about systems that know the difference between **“I have enough information to decide”** and **“I should not pretend that I do.”**
 
-That means explicit assumptions, strong validation, deterministic behavior where possible, traceable decisions and software that fails visibly instead of producing convincing nonsense.
+Explicit assumptions · Strong validation · Traceable decisions · Predictable failure
 
 ## Technologies
 
-TypeScript · JavaScript · Python · SQL  
-Node.js · PostgreSQL · React Native · Playwright · GitHub Actions
-
----
-
-Currently building independent projects around intelligent data analysis, decision engines, automation and connected systems.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React Native" title="React Native" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="38" height="38" alt="Playwright" title="Playwright" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
+</p>
